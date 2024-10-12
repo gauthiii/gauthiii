@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+theme: radical
 -->
 
-![Gautham Vijayaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthiii&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiii&layout=compact&theme=radical)
+![Gautham Vijayaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthiii&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gauthiii&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiii&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gauthiii&theme=dark)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/gauthiii?theme=dark&font=&extension=activity)
