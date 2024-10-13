@@ -36,9 +36,9 @@ theme: radical
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@gauthiiis_jukebox)
 
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/4VA6qRwjB0lKfphoydXvyD)
+[![Spotify](https://img.shields.io/badge/-Spotify-0C7F35?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/4VA6qRwjB0lKfphoydXvyD)
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gauthiii/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-DC8809?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gauthiii/)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=About.me&logoColor=white)](https://gauthiii.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-C4DCE6?style=flat-square&logo=About.me&logoColor=white)](https://gauthiii.github.io/)
 
