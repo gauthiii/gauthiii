@@ -25,3 +25,5 @@ theme: radical
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gauthiii&theme=dark)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/gauthiii?theme=dark&font=&extension=activity)
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauthiii)
