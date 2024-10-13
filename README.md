@@ -28,4 +28,4 @@ theme: radical
 
 ## My Socials
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauthiii)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-red?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauthiii)
