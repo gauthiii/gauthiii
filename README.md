@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 theme: radical
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthiii&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkrish14nu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthiii&label=Profile%20views&color=0e75b6&style=flat" alt="gauthiii" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthiii" alt="gauthiii" /></a> </p>
+
 
 ![Gautham Vijayaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthiii&show_icons=true&theme=dark)
 
