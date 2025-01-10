@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 theme: radical
 -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkrish14nu&label=Profile%20views&color=0e75b6&style=flat" alt="pranavkrish14nu" /> </p>
 
 ![Gautham Vijayaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthiii&show_icons=true&theme=dark)
 
