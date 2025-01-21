@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm a **passionate developer**, **AI enthusiast**,
 
 ### My LeetCode Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gauthiii?theme=radical&font=K2D&ext=activity)
 
 ---
 
