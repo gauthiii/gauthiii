@@ -16,7 +16,7 @@ theme: radical
 -->
 ## Hi there 👋 I'm Gautham Vijayaraj!
 
-Welcome to my GitHub profile! I'm a **passionate developer**, **AI enthusiast**, **music maker**, and **problem solver**. Always eager to explore new challenges and bring creative ideas to life. When I'm not coding, you can find me working out, capturing street stories, or experimenting with music 🎵. Here's a quick snapshot of who I am and what I do:
+Welcome to my GitHub profile! I'm a **passionate developer**, **AI enthusiast**, **music producer**, and **problem solver**. Always eager to explore new challenges and bring creative ideas to life. When I'm not coding, you can find me working out, capturing street stories, or experimenting with music 🎵. Here's a quick snapshot of who I am and what I do:
 
 ---
 
