@@ -78,6 +78,12 @@ Welcome to my GitHub profile! I'm a **passionate developer**, **AI enthusiast**,
 
 ---
 
+### My LeetCode Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+---
+
 ### 🌐 Connect with Me
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-red?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauthiii)
