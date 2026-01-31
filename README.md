@@ -1,104 +1,108 @@
-<!--
-**gauthiii/gauthiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauthiii&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Gautham Vijayaraj! 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <b>ServiceNow & AI Engineer 🤖 | Novelist 📚 | Music Producer 🎧</b>
+</p>
 
-theme: radical
--->
-## Hi there 👋 I'm Gautham Vijayaraj!
-
-![](https://komarev.com/ghpvc/?username=gauthiii)
-
-Welcome to my GitHub profile! I'm a **passionate developer**, **AI enthusiast**, **music producer**, and **problem solver**. Always eager to explore new challenges and bring creative ideas to life. When I'm not coding, you can find me working out, capturing street stories, or experimenting with music 🎵. Here's a quick snapshot of who I am and what I do:
+<p align="center">
+  <i>"Building agents that think, and writing stories that dream."</i>
+</p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 **Currently working on:** Building intelligent systems and exploring AI/ML applications.
-- 🌱 **Learning:** Cutting-edge Generative AI, Quantum Computing, and Flutter.
-- 👯 **Looking for:** Collaboration opportunities in AI, ML, and full-stack development.
-- 🎨 **Interests:** Photography, music production, and fitness.
-- 📍 **Based in:** Arizona State University, pursuing an MS in Computer Science (Cybersecurity).
+### 🚀 The "Two Sides" of Gautham
+
+I live at the intersection of **structured logic** and **chaotic creativity**. By day, I design autonomous AI systems and enterprise workflows. By night, I write comic books and produce lofi beats.
+
+#### 👨‍💻 The Engineer
+I specialize in **Agentic AI** and **ServiceNow**, building systems where AI agents talk to each other to solve complex problems. 
+* **Current Focus:** Designing Agent-to-Agent (A2A) protocols and Model Context Protocol (MCP) servers.
+* **Tech Love:** Generative AI, Graph Databases (Neo4j), and scalable Microservices.
+
+#### 🎨 The Creator
+* **Author:** I write novels and comics! Check out my work on my **[Amazon Author Page](https://www.amazon.com/stores/Gautham-Vijayaraj/author/B0DYN9XR8N)**.
+* **Music:** Co-founder of **Homesick Syndrome**. I create soulful tunes to code to. Listen on **[YouTube](https://www.youtube.com/@gauthiiis_jukebox)**.
 
 ---
 
-### ⚡ Skills and Technologies
+### 🛠️ Featured Projects
 
-#### **Front-end Development**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+Here is what I've been building lately (check my repositories for the code):
 
-#### **Back-end Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+#### 🤖 **[Multi-Agent Orchestration with A2A & MCP](https://github.com/gauthiii/a2aProjects)**
+An integrated framework allowing AI agents to "talk" to each other asynchronously.
+* **The Tech:** A2A Protocol, Model Context Protocol (MCP), LLMs.
+* **The Cool Part:** I enabled communication between Reddit, Airbnb, and Finance agents to automate market analysis and trip planning automatically.
 
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+#### 🕸️ **[Multi-Server MCP Orchestration](https://github.com/gauthiii/mcpServer)**
+An LLM-driven system that acts as a puppet master for multiple tools.
+* **The Tech:** Playwright, DuckDuckGo, OpenWeather, Gmail APIs.
+* **The Cool Part:** It automates browsing, booking, and email parsing in a single flow.
 
-#### **AI & Machine Learning**
+#### 🧠 **[Agentic Research Workflow](https://github.com/gauthiii/agenticAIProjects)**
+A research system that thinks about its own thinking.
+* **The Tech:** OpenAI, Claude LLMs, LangChain, Tavily.
+* **The Cool Part:** Uses a "reflection-feedback loop" to critique and improve its own research reports before showing them to you.
+
+---
+
+### ⚡ Technical Arsenal
+
+**🤖 AI & Data**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white)
 
-#### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+**☁️ Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-81B5A1?style=flat-square&logo=ServiceNow&logoColor=white)
+
+**💻 Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 
 ---
 
-### 📈 My GitHub Stats
+### 🏆 Certifications
+
+I believe in continuous learning. Here are a few badges I've collected:
+* 📜 **ServiceNow Certified System Administrator (CSA)**
+* 📜 **ServiceNow Certified Application Developer (CAD)**
+* 📜 **ServiceNow Certified Implementation Specialist (Data Foundations)**
+* 🛡️ **Google Cybersecurity Professional**
+* 🧠 **IBM Generative AI Engineering Professional**
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauthiii&show_icons=true&theme=radical" alt="Gautham's GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gauthiii&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiii&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
-### My LeetCode Stats
+### 🌐 Let's Connect!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gauthiii?theme=radical&font=K2D&ext=activity)
+I'm always open to discussing **Agentic AI**, **Cybersecurity**, or the plot of your latest story.
 
----
-
-### 🌐 Connect with Me
-
-[![HackerRank](https://img.shields.io/badge/-HackerRank-red?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauthiii)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gautham-vijayaraj/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gauthiiis_jukebox/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@gauthiiis_jukebox)
-[![Spotify](https://img.shields.io/badge/-Spotify-0C7F35?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/4VA6qRwjB0lKfphoydXvyD)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-DC8809?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gauthiii/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-C4DCE6?style=flat-square&logo=About.me&logoColor=white)](https://gauthiii.github.io/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@gauthiiis_jukebox)
+[![Amazon](https://img.shields.io/badge/-Amazon%20Author-FF9900?style=flat-square&logo=Amazon&logoColor=white)](https://www.amazon.com/stores/Gautham-Vijayaraj/author/B0DYN9XR8N)
 
----
-
-### 🎵 Fun Fact
-I'm the co-founder of **Homesick Syndrome**, a music label connecting global talents and bringing soulful music to life. Check out my latest work on Spotify and YouTube!
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+</p>
