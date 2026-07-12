@@ -2,51 +2,136 @@
   <img src="https://komarev.com/ghpvc/?username=gauthiii&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 
-<h1 align="center">Hi there, I'm Gautham Vijayaraj! 👋</h1>
+<h1 align="center">Hey, I'm Gautham 👋</h1>
 
 <p align="center">
-  <b>ServiceNow & AI Engineer 🤖 | Novelist 📚 | Music Producer 🎧</b>
+  <b>ServiceNow & AI Engineer 🤖 &nbsp;|&nbsp; Novelist 📚 &nbsp;|&nbsp; Music Producer 🎧</b>
 </p>
 
 <p align="center">
-  <i>"Building agents that think, and writing stories that dream."</i>
+  <i>I teach robots to talk to each other — mostly so I don't have to. 🫠</i>
 </p>
 
 ---
 
-### 🚀 The "Two Sides" of Gautham
+### 🧑‍💻 whoami
 
-I live at the intersection of **structured logic** and **chaotic creativity**. By day, I design autonomous AI systems and enterprise workflows. By night, I write comic books and produce lofi beats.
+I'm an engineer who genuinely enjoys the messy middle of things — the part where an AI agent *almost* works, then hallucinates a patient appointment for the year 3025 and you have to sit it down for a chat.
 
-#### 👨‍💻 The Engineer
-I specialize in **Agentic AI** and **ServiceNow**, building systems where AI agents talk to each other to solve complex problems. 
-* **Current Focus:** Designing Agent-to-Agent (A2A) protocols and Model Context Protocol (MCP) servers.
-* **Tech Love:** Generative AI, Graph Databases (Neo4j), and scalable Microservices.
+By day I build **ServiceNow + Agentic AI** systems: enterprise AI agents, A2A/MCP plumbing, and governance layers that keep LLMs honest. By night I write **novels & comics**, produce **lofi beats**, and add commits to repos that absolutely did not need commits.
 
-#### 🎨 The Creator
-* **Author:** I write novels and comics! Check out my work on my **[Amazon Author Page](https://www.amazon.com/stores/Gautham-Vijayaraj/author/B0DYN9XR8N)**.
-* **Music:** Co-founder of **Homesick Syndrome**. I create soulful tunes to code to. Listen on **[YouTube](https://www.youtube.com/@gauthiiis_jukebox)**.
+- 🔭 Currently deep in **ServiceNow AI Control Tower**, **Agent-to-Agent protocols**, and **MCP servers**.
+- 🧪 Favorite toys: LLMs, LangChain, Neo4j graphs, FastAPI, React, and way too much coffee.
+- 🐛 My debugging strategy is 10% logic, 90% talking to the screen.
+- 📫 Reach me: **gauvij.99@gmail.com**
+
+> Two modes of operation: **structured logic** (the day job) and **chaotic creativity** (everything else). They fight. I win either way.
 
 ---
 
-### 🛠️ Featured Projects
+### 🎨 The Non-Engineer Half
 
-Here is what I've been building lately (check my repositories for the code):
+- **📚 Author:** I write novels and comics. Read my stuff on my **[Amazon Author Page](https://www.amazon.com/stores/Gautham-Vijayaraj/author/B0DYN9XR8N)**.
+- **🎧 Music:** Co-founder of **Homesick Syndrome** — soulful tunes to code (or cry) to. Listen on **[YouTube](https://www.youtube.com/@gauthiiis_jukebox)**.
 
-#### 🤖 **[Multi-Agent Orchestration with A2A & MCP](https://github.com/gauthiii/a2aProjects)**
-An integrated framework allowing AI agents to "talk" to each other asynchronously.
-* **The Tech:** A2A Protocol, Model Context Protocol (MCP), LLMs.
-* **The Cool Part:** I enabled communication between Reddit, Airbnb, and Finance agents to automate market analysis and trip planning automatically.
+---
 
-#### 🕸️ **[Multi-Server MCP Orchestration](https://github.com/gauthiii/mcpServer)**
-An LLM-driven system that acts as a puppet master for multiple tools.
-* **The Tech:** Playwright, DuckDuckGo, OpenWeather, Gmail APIs.
-* **The Cool Part:** It automates browsing, booking, and email parsing in a single flow.
+### 🚀 Stuff I'm Actually Proud Of
 
-#### 🧠 **[Agentic Research Workflow](https://github.com/gauthiii/agenticAIProjects)**
-A research system that thinks about its own thinking.
-* **The Tech:** OpenAI, Claude LLMs, LangChain, Tavily.
-* **The Cool Part:** Uses a "reflection-feedback loop" to critique and improve its own research reports before showing them to you.
+#### 🏥 [CareAtlas — AI Scheduling with a Lie Detector](https://github.com/gauthiii/careAtlas)
+A ServiceNow **Now Assist** healthcare scheduling system with a semantic **hallucination-detection layer** (`scanHallucination`) wedged between the LLM and the scheduler. Every AI output gets fact-checked against the original patient input before it's allowed to do anything. Basically a bouncer for the model's bad ideas.
+> `ServiceNow` · `Now Assist` · `LLM guardrails` · `AI governance`
+
+#### 🧠 [BHUC — Behavioral Health Urgent Care AI Platform](https://github.com/gauthiii/bhuc)
+Native **ServiceNow AI Control Tower + AI Agent Studio (GRC)** agents handling crisis escalation, risk screening, clinical docs, consent, and scheduling — with a React + Vite frontend embedded as an iframe-portal and a FastAPI backend. Governance is native AICT/AIRC, auth via AWS Cognito.
+> `ServiceNow AICT` · `React + Vite` · `FastAPI` · `AWS Cognito`
+
+#### 🤝 [Multi-Agent Orchestration with A2A & MCP](https://github.com/gauthiii/a2aProjects)
+Agents that talk to *each other* over HTTP (JSON-RPC + structured messages) instead of everything funneling through one poor overworked LLM. Reddit, Airbnb, and Finance agents coordinate to do market analysis and trip planning while I watch.
+> `A2A Protocol` · `MCP` · `LLMs`
+
+#### 📚 [ServiceNow AI Docs — MCP Server](https://github.com/gauthiii/ai_service_now_docs)
+An MCP server that exposes the *entire* official ServiceNow AI documentation (Zurich & Australia releases — 1600+ subtopics) as searchable, LLM-readable context. Yes, this is the one plugged into my own coding assistant. Very meta.
+> `Model Context Protocol` · `ServiceNow` · `RAG`
+
+#### 🔁 [Agentic Research Workflow](https://github.com/gauthiii/agenticAIProjects)
+A research system that critiques itself. Reflection + evaluation-feedback loops let it grade and rewrite its own reports before you ever see them — so it does the doubting so you don't have to.
+> `LangChain` · `OpenAI/Claude` · `Reflection loops`
+
+---
+
+### 🗂️ The Full Project Directory
+
+Everything I've built, broken, and occasionally fixed. Grab a coffee. ☕
+
+**🤖 AI & Agents**
+| Project | What it does | Repo |
+|---|---|---|
+| Multi-Agent A2A & MCP | Agents talking to agents over HTTP | [a2aProjects](https://github.com/gauthiii/a2aProjects) |
+| Agentic AI Workflows | Multi-agent systems with reflection loops | [agenticAIProjects](https://github.com/gauthiii/agenticAIProjects) |
+| Multi-Server MCP Orchestration | One LLM puppet-mastering many tools | [mcpServer](https://github.com/gauthiii/mcpServer) |
+| Movie AI Agent | Gemini pulls cast, plot & poster from a title | [movieAgent](https://github.com/gauthiii/movieAgent) |
+| Recipe Agent | Invents recipes from scratch | [recipeAgent](https://github.com/gauthiii/recipeAgent) |
+| Stock Price AI Agent | Live prices + AI analysis (Yahoo Finance) | [stockPriceAIAgent](https://github.com/gauthiii/stockPriceAIAgent) |
+| Smart Summary Agent | Summarizes any text via a tiny HF LLM | [smartSummaryAgent](https://github.com/gauthiii/smartSummaryAgent) |
+| GitHub Summarizer | TL;DR for any public repo | [githubSummarizer](https://github.com/gauthiii/githubSummarizer) |
+| Find My Startup | Multi-agent startup idea validator | [findMyStartup](https://github.com/gauthiii/findMyStartup) |
+| Microservice Analyzer | AI-assisted microservice inspection | [microservice_analyzer](https://github.com/gauthiii/microservice_analyzer) |
+| Resume ATS Checker | Scores your resume against a job desc | [resumeATSChecker](https://github.com/gauthiii/resumeATSChecker) |
+| Personal LLM | A tiny LLM trained on 120 of my prompts | [llm1](https://github.com/gauthiii/llm1) |
+| Lifetime Cost Calculator | Node + LLM "what will this cost me forever" app | [lifetime-cost-calculator](https://github.com/gauthiii/lifetime-cost-calculator) |
+
+**🏢 ServiceNow & Enterprise AI**
+| Project | What it does | Repo |
+|---|---|---|
+| CareAtlas | Now Assist scheduling + hallucination detection | [careAtlas](https://github.com/gauthiii/careAtlas) |
+| BHUC | Behavioral health urgent care AI platform (AICT) | [bhuc](https://github.com/gauthiii/bhuc) |
+| ServiceNow AI Docs MCP | Official SN AI docs as an MCP server | [ai_service_now_docs](https://github.com/gauthiii/ai_service_now_docs) |
+| ServiceNow MFA API | FastAPI-owned TOTP MFA backed by ServiceNow | [serviceNowMFA](https://github.com/gauthiii/serviceNowMFA) |
+| Task Mission | ServiceNow task/mission workflow app | [taskMission](https://github.com/gauthiii/taskMission) |
+
+**🌐 Web, Data Viz & Frontend**
+| Project | What it does | Repo |
+|---|---|---|
+| Portfolio | My corner of the internet | [gauthiii.github.io](https://github.com/gauthiii/gauthiii.github.io) |
+| Superhero Data Viz | Interactive D3 superhero attribute explorer | [superHeroDataVisualization](https://github.com/gauthiii/superHeroDataVisualization) |
+| F1 Safety Evolution | D3 viz of Formula 1 safety over time | [f1-safety-visualization](https://github.com/gauthiii/f1-safety-visualization) |
+| AI Fitness Tracker | React fitness-tracking web app | [fitness_tracker](https://github.com/gauthiii/fitness_tracker) |
+| Healthcare Dashboard | React healthcare dashboard | [healthcareReact](https://github.com/gauthiii/healthcareReact) |
+| Movie Booking | React movie ticket booking app | [movieBooking](https://github.com/gauthiii/movieBooking) |
+
+**📱 Mobile (Flutter)**
+| Project | What it does | Repo |
+|---|---|---|
+| Crate Dig | Flutter app for digging music crates | [crateDig](https://github.com/gauthiii/crateDig) |
+| Find Playlist | Flutter playlist finder | [findPlaylist](https://github.com/gauthiii/findPlaylist) |
+
+**🎧 Music & Spotify**
+| Project | What it does | Repo |
+|---|---|---|
+| Spotify Automator | Automates my Spotify workflows | [spotifyAutomator](https://github.com/gauthiii/spotifyAutomator) |
+| Spotify Extractor | Pulls track data out of Spotify | [spotifyExtractor](https://github.com/gauthiii/spotifyExtractor) |
+
+**🎮 Games & For-Fun**
+| Project | What it does | Repo |
+|---|---|---|
+| Super Mario DiaCare | Mario, but it teaches diabetes management | [marioDiacare](https://github.com/gauthiii/marioDiacare) |
+| Mario Hand-Control | Play Mario with hand tracking | [marioHand](https://github.com/gauthiii/marioHand) |
+
+**🎓 Academic & Algorithms**
+| Project | What it does | Repo |
+|---|---|---|
+| Suspicious Activity Detection | ML + data mining on social media (CSE 543) | [IASFinalProjectASU](https://github.com/gauthiii/IASFinalProjectASU) |
+| Wafer Scheduling | Johnson's Rule optimizer (CSE 551) | [waferScheduling](https://github.com/gauthiii/waferScheduling) |
+| Stock Price Prediction | ML stock forecasting | [stockPricePrediction](https://github.com/gauthiii/stockPricePrediction) |
+| SVVT | Software V&V testing coursework (CSE 565) | [cse565_svvt](https://github.com/gauthiii/cse565_svvt) |
+
+**☕ Java / Spring Boot**
+| Project | What it does | Repo |
+|---|---|---|
+| Patient System | Spring Boot patient management | [patient-system](https://github.com/gauthiii/patient-system) |
+| Example Patients | Spring JPA patient examples | [springExamplePatients](https://github.com/gauthiii/springExamplePatients) |
+| Spring Starter | My first Spring Boot project | [springBootProject1](https://github.com/gauthiii/springBootProject1) |
 
 ---
 
@@ -68,13 +153,15 @@ A research system that thinks about its own thinking.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 
 ---
 
 ### 🏆 Certifications
 
-I believe in continuous learning. Here are a few badges I've collected:
+Proof that I occasionally finish what I start:
 * 📜 **ServiceNow Certified System Administrator (CSA)**
 * 📜 **ServiceNow Certified Application Developer (CAD)**
 * 📜 **ServiceNow Certified Implementation Specialist (Data Foundations)**
@@ -94,9 +181,9 @@ I believe in continuous learning. Here are a few badges I've collected:
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
-I'm always open to discussing **Agentic AI**, **Cybersecurity**, or the plot of your latest story.
+Down to talk **Agentic AI**, **ServiceNow**, cybersecurity, lofi production, or the plot twist you can't stop thinking about.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gautham-vijayaraj/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-C4DCE6?style=flat-square&logo=About.me&logoColor=white)](https://gauthiii.github.io/)
